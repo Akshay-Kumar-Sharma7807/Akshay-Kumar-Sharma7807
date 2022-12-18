@@ -2,10 +2,10 @@
 
 I am a Full Stack Javascript Web Developer. I am a self taught developer.
 
-- 🔭 I’m currently working on A Music Player PWA
-- 🌱 I’m currently learning CS50 Python
+- 🔭 I’m currently working on some Hackathons
+- 🌱 I’m currently learning CS50 Web
 - 👯 I’m looking to collaborate on Some Cool Projects
-- 🤔 I’m looking for help with Music Player
+- 🤔 I’m looking for help with Saplings Protector App
 - 💬 Ask me about Javascript, Python, Nodejs, React, Firebase and Algorithms
 - 📫 How to reach me: sharmaakshaykumar7807@gmail.com
 - ⚡ Fun fact: Still using Windows 7
