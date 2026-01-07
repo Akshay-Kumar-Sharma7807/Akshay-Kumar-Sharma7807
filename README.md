@@ -3,7 +3,6 @@
 I am a Full Stack Javascript Web Developer. I am a self taught developer.
 
 - 🔭 I’m currently working on some Hackathons
-- 🌱 I’m currently learning CS50 Web
 - 👯 I’m looking to collaborate on Some Cool Projects
 - 💬 Ask me about Javascript, Python, AI, Nodejs, React, Firebase and Algorithms
 - 📫 How to reach me: sharmaakshaykumar7807@gmail.com
